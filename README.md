@@ -10,3 +10,5 @@ The software works by keeping a rolling temporal average of the background, and 
 ![](https://github.com/ammoore00/Motion-Detector/blob/matlab/Images/RC_car.png?raw=true)
 
 If something was detected, a signal would be sent over ethernet to a connected raspberry pi, whcih would then show an image, representing the traffic signal activating.
+
+This project was later rewritten in python, which can be viewed under the python branch.
